@@ -4,7 +4,6 @@ https://github.com/radiant-rstats/docker-vsix-dev/raw/main/CoenraadS.bracket-pai
 https://github.com/radiant-rstats/docker-vsix-dev/raw/main/eamodio.gitlens-10.2.2.vsix
 https://github.com/radiant-rstats/docker-vsix-dev/raw/main/Ikuyadeu.r-1.5.1.vsix
 https://github.com/radiant-rstats/docker-vsix-dev/raw/main/ms-python.python-2020.9.114305.vsix
-https://github.com/radiant-rstats/docker-vsix-dev/raw/main/ms-python.vscode-pylance-2020.10.2.vsix
 https://github.com/radiant-rstats/docker-vsix-dev/raw/main/RDebugger.r-debugger-0.4.1.vsix
 https://github.com/radiant-rstats/docker-vsix-dev/raw/main/REditorSupport.r-lsp-0.1.11.vsix
 https://github.com/radiant-rstats/docker-vsix-dev/raw/main/VisualStudioExptTeam.vscodeintellicode-1.2.10.vsix
