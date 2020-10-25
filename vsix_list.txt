@@ -1,0 +1,10 @@
+https://github.com/radiant-rstats/docker-vsix-dev/raw/master/alefragnani.project-manager-11.3.0.vsix
+christian-kohler.path-intellisense-2.3.0.vsix
+CoenraadS.bracket-pair-colorizer-2-0.2.0.vsix
+eamodio.gitlens-10.2.2.vsix
+Ikuyadeu.r-1.5.1.vsix
+ms-python.python-2020.9.114305.vsix
+ms-python.vscode-pylance-2020.10.2.vsix
+RDebugger.r-debugger-0.4.1.vsix
+REditorSupport.r-lsp-0.1.11.vsix
+VisualStudioExptTeam.vscodeintellicode-1.2.10.vsix
