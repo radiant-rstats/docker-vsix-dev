@@ -7,4 +7,5 @@ https://github.com/radiant-rstats/docker-vsix-dev/raw/main/Ikuyadeu.r-1.5.2.vsix
 https://github.com/radiant-rstats/docker-vsix-dev/raw/main/ms-python.python-2020.10.332292344.vsix
 https://github.com/radiant-rstats/docker-vsix-dev/raw/main/RDebugger.r-debugger-0.4.1.vsix
 https://github.com/radiant-rstats/docker-vsix-dev/raw/main/REditorSupport.r-lsp-0.1.11.vsix
+https://github.com/radiant-rstats/docker-vsix-dev/raw/main/tht13.html-preview-vscode-0.2.5.vsix
 https://github.com/radiant-rstats/docker-vsix-dev/raw/main/VisualStudioExptTeam.vscodeintellicode-1.2.10.vsix
